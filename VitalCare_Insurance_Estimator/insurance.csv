@@ -1,0 +1,5 @@
+age,bmi,children,sex,smoker,region,charges
+25,22.0,0,male,no,southeast,3200
+45,27.5,2,female,yes,northwest,15000
+32,24.1,1,male,no,southwest,4500
+50,30.2,3,female,yes,northeast,17000
